@@ -4,7 +4,7 @@
 ## Install
 
 ```sh
-$ sh install.sh
+$ wget -qO- http://git.io/fed-st3-sh | sudo sh
 ```
 
 ## Latest build
