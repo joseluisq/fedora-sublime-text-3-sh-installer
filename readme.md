@@ -8,7 +8,7 @@ $ wget -qO- http://git.io/fed-st3-sh | sudo sh
 ```
 
 ## Latest build
-- Build 3083 *(26 March 2015)*
+- Build 3103 *(9 February 2016)*
 
 http://www.sublimetext.com/3
 
@@ -18,4 +18,4 @@ http://www.sublimetext.com/3
 ## License
 MIT
 
-© 2015 [José Luis Quintana](http://quintana.io)
+© 2016 [José Luis Quintana](http://git.io/joseluisq)
