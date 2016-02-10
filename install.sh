@@ -7,11 +7,11 @@
 B=`tput bold`
 N=`tput sgr0`
 
-# Sublime Text 3 - Build 3083
-# Release Date: 26 March 2015
-BUILD="3083"
+# Sublime Text 3 - Build 3103
+# Release Date: 9 February 2016
+BUILD="3103"
 
-SOURCE="http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
+SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
 Version=1.0
 Type=Application
