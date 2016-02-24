@@ -48,6 +48,8 @@ tar -xvjf "sublime_text_3.tar.bz2"
 echo "Installing..."
 rm -rf "sublime_text_3.tar.bz2"
 echo "${SHORTCUT}" > "/usr/share/applications/sublime-text-3.desktop"
+ln -s /opt/sublime_text_3/sublime_text /usr/bin/subl
+subl -v
 echo "Done !"
 echo "${B}Sublime Text 3${N} has been installed successfully !"
 
