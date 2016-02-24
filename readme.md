@@ -7,6 +7,12 @@
 $ wget -qO- http://git.io/fed-st3-sh | sudo sh
 ```
 
+## Usage
+
+```sh
+$ subl my-directory-or-file-path
+```
+
 ## Latest build
 - Build 3103 *(9 February 2016)*
 
