@@ -7,9 +7,9 @@
 B=`tput bold`
 N=`tput sgr0`
 
-# Sublime Text 3 - Build 3114
-# Release Date: 12 May 2016
-BUILD="3114"
+# Sublime Text 3 - Build 3124
+# Release Date: 22 Sep 2016
+BUILD="3124"
 
 SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
@@ -52,4 +52,3 @@ ln -s /opt/sublime_text_3/sublime_text /usr/bin/subl
 subl -v
 echo "Done !"
 echo "${B}Sublime Text 3${N} has been installed successfully !"
-
