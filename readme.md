@@ -14,7 +14,7 @@ $ subl my-directory-or-file-path
 ```
 
 ## Latest build
-- Build 3114 *(12 May 2016)*
+- Build 3124 *(22 September 2016)*
 
 http://www.sublimetext.com/3
 
