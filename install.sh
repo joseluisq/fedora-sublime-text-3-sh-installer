@@ -1,15 +1,15 @@
 #!/bin/sh
 
-# Sublime Text 3 Installer 
+# Sublime Text 3 Installer
 # for Fedora Linux x64 (64 Bit)
 
 # Miscellaneous
 B=`tput bold`
 N=`tput sgr0`
 
-# Sublime Text 3 - Build 3124
-# Release Date: 22 Sep 2016
-BUILD="3124"
+# Sublime Text 3 - Build 3126
+# Release Date: 23 Sep 2016
+BUILD="3126"
 
 SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
@@ -25,12 +25,12 @@ Icon=/opt/sublime_text_3/Icon/128x128/sublime-text.png
 Categories=TextEditor;Development;
 StartupNotify=true
 Actions=Window;Document;
- 
+
 [Desktop Action Window]
 Name=New Window
 Exec=/opt/sublime_text_3/sublime_text -n
 OnlyShowIn=Unity;
- 
+
 [Desktop Action Document]
 Name=New File
 Exec=/opt/sublime_text/sublime_text --command new_file

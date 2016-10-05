@@ -14,7 +14,7 @@ $ subl my-directory-or-file-path
 ```
 
 ## Latest build
-- Build 3124 *(22 September 2016)*
+- Build 3126 *(23 September 2016)*
 
 http://www.sublimetext.com/3
 
@@ -23,6 +23,10 @@ http://www.sublimetext.com/3
 
 ## Contributions
 [Pull requests](https://github.com/joseluisq/fedora-sublime-text-3-shell-installer/pulls) and [issues](https://github.com/joseluisq/fedora-sublime-text-3-shell-installer/issues) are be welcome.
+
+## Releated
+
+- [Fedora / Atom Shell Installer](https://github.com/joseluisq/fedora-atom-sh-installer)
 
 ## License
 MIT
