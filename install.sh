@@ -7,9 +7,9 @@
 B=`tput bold`
 N=`tput sgr0`
 
-# Sublime Text 3 - Build 3126
-# Release Date: 23 Sep 2016
-BUILD="3126"
+# Sublime Text 3 - Build 3143
+# Release Date: 13 Sep 2017
+BUILD="3143"
 
 SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
