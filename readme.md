@@ -14,7 +14,7 @@ $ subl my-directory-or-file-path
 ```
 
 ## Latest build
-- Build 3126 *(23 September 2016)*
+- Build 3143 *(13 September 2017)*
 
 http://www.sublimetext.com/3
 
@@ -31,4 +31,4 @@ http://www.sublimetext.com/3
 ## License
 MIT
 
-© 2016 [José Luis Quintana](http://git.io/joseluisq)
+© 2017 [José Luis Quintana](http://git.io/joseluisq)
