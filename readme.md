@@ -22,7 +22,9 @@ http://www.sublimetext.com/3
 [![Predawn Sublime Theme](https://cloud.githubusercontent.com/assets/1700322/6886866/7b16e41a-d612-11e4-8e60-efb786b8ed0c.png)](https://github.com/joseluisq/sublimetext3-predawn-icons)
 
 ## Contributions
-[Pull requests](https://github.com/joseluisq/fedora-sublime-text-3-shell-installer/pulls) and [issues](https://github.com/joseluisq/fedora-sublime-text-3-shell-installer/issues) are be welcome.
+
+Feel free to send some [Pull request](https://github.com/joseluisq/fedora-sublime-text-3-sh-installer/pulls) or [issue](https://github.com/joseluisq/fedora-sublime-text-3-sh-installer/issues).
+
 
 ## Releated
 
@@ -31,4 +33,4 @@ http://www.sublimetext.com/3
 ## License
 MIT
 
-© 2017 [José Luis Quintana](http://git.io/joseluisq)
+© 2018 [José Luis Quintana](http://git.io/joseluisq)
