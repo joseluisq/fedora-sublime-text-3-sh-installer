@@ -7,9 +7,10 @@
 B=`tput bold`
 N=`tput sgr0`
 
-# Sublime Text 3 - Build 3143
-# Release Date: 13 Sep 2017
-BUILD="3143"
+# Sublime Text 3 (v3.1.1)
+# Build: 3176
+# Date: 14 May 2018
+BUILD="3176"
 
 SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
